@@ -20,7 +20,7 @@ body {
 }
 
 form {
-  margin: 2 rem 0 1rem 0;
+  margin: 2rem 0 1rem 0;
 }
 
 form select,
@@ -40,7 +40,7 @@ form input {
 }
 
 .dropdown {
-  display: felx;
+  display: flex;
   justify-content: space-between;
   align-items: center;
   margin-top: 2rem;
